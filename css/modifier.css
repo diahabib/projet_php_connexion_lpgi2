@@ -1,0 +1,15 @@
+form{
+    display: flex;
+    justify-content: center;   
+}
+/*fieldset{
+    
+    border: 1px solid ;
+    width: 60%;
+ 
+}*/
+.groups{
+    display : flex;
+    justify-content: space-around;
+    
+}

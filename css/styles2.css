@@ -1,0 +1,48 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    width: 500px;
+    text-align: center;
+}
+td,tr,th{
+    width: 150px;
+    height: 80px;
+}
+#t{
+    background-color: red;
+}
+table{
+    margin: 10px auto;
+}
+
+
+form{
+    width : 400px;
+    margin: 10px auto;
+}
+input{
+    margin-bottom: 15px;
+}
+legend{
+    color: brown;
+}
+fieldset{
+    border-color: brown;
+}
+
+.msg{
+    color:green
+}
+.msg2{
+    color: red;
+}
+.msg3{
+    color: black;
+}
+.m2{
+    position: relative;
+    bottom: 100px;
+    left: 22px;
+    color:black
+}
+

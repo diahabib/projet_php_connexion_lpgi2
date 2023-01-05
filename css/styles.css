@@ -1,0 +1,32 @@
+  
+/*form{
+    display: flex;
+    justify-content: center; 
+    width: 50em   
+}*/
+
+legend{
+    color: brown;
+}
+
+
+.ajout{
+    text-decoration: none;
+}
+
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ajt{
+    display: flex;
+    justify-content: center;
+}
+
+ 
+
+.form-group input{
+    text-align: center;
+}
+
